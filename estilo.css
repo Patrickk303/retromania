@@ -1,3 +1,17 @@
 body{
 	background-image: url(fundo.jpg);
 }
+@font-face {
+  font-family: Cherry Days;
+  src: url(Cherry Days.ttf)
+}
+h1{
+	text-align: center;
+	font-family: Cherry Days;
+	color: blue;
+}
+P{
+	background-color: #666666;
+	color: white;
+}
+
